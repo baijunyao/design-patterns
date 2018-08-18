@@ -5,6 +5,8 @@
 4. [php设计模式(四)工厂方法模式](https://baijunyao.com/article/162)
 5. [php设计模式(五)抽象工厂模式](https://baijunyao.com/article/164)
 6. [php设计模式(六)使用简单工厂来优化抽象工厂模式](https://baijunyao.com/article/165)
+7. [php设计模式(七)使用反射来优化抽象工厂模式](https://baijunyao.com/article/166)
+8. [php设计模式(八)原型模式](https://baijunyao.com/article/167)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -12,3 +14,5 @@
 - [工厂方法模式](https://github.com/baijunyao/design-patterns/tree/master/FactoryMethod)
 - [抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactory)
 - [使用简单工厂来优化抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactoryWithSimpleFactory)
+- [使用反射来优化抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactoryWithReflection)
+- [原型模式](https://github.com/baijunyao/design-patterns/tree/master/Prototype)
