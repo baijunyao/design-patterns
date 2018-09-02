@@ -7,7 +7,8 @@
 6. [php设计模式(六)使用简单工厂来优化抽象工厂模式](https://baijunyao.com/article/165)
 7. [php设计模式(七)使用反射来优化抽象工厂模式](https://baijunyao.com/article/166)
 8. [php设计模式(八)原型模式](https://baijunyao.com/article/167)
-8. [php设计模式(九)类适配器模式](https://baijunyao.com/article/168)
+9. [php设计模式(九)类适配器模式](https://baijunyao.com/article/168)
+10. [php设计模式(十)对象适配器模式](https://baijunyao.com/article/169)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -16,4 +17,6 @@
 - [抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactory)
 - [使用简单工厂来优化抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactoryWithSimpleFactory)
 - [使用反射来优化抽象工厂模式](https://github.com/baijunyao/design-patterns/tree/master/AbstractFactoryWithReflection)
-- [原型模式](https://github.com/baijunyao/design-patterns/tree/master/Prototype)- [类适配器](https://github.com/baijunyao/design-patterns/tree/master/ClassAdapter)
+- [原型模式](https://github.com/baijunyao/design-patterns/tree/master/Prototype)
+- [类适配器](https://github.com/baijunyao/design-patterns/tree/master/ClassAdapter)
+- [对象适配器](https://github.com/baijunyao/design-patterns/tree/master/ObjectAdapter)
