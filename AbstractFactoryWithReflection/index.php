@@ -8,7 +8,7 @@ require __DIR__.'/../vendor/autoload.php';
  * 客户端
  *
  * Class Client
- * @package Baijunyao\DesignPatterns\FactoryMethod
+ * @package Baijunyao\DesignPatterns\AbstractFactoryWithReflection
  */
 class Client
 {
