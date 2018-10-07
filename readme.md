@@ -12,6 +12,7 @@
 11. [php设计模式(十一)桥接模式](https://baijunyao.com/article/170)
 12. [php设计模式(十二)装饰模式](https://baijunyao.com/article/172)
 13. [php设计模式(十三)透明组合模式](https://baijunyao.com/article/174)
+14. [php设计模式(十四)安全组合模式](https://baijunyao.com/article/175)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -25,4 +26,5 @@
 - [对象适配器模式](https://github.com/baijunyao/design-patterns/tree/master/ObjectAdapter)
 - [桥接模式](https://github.com/baijunyao/design-patterns/tree/master/Bridge)
 - [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/Decorator)
-- [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/TransparentComposite)
+- [透明组合模式](https://github.com/baijunyao/design-patterns/tree/master/TransparentComposite)
+- [安全组合模式](https://github.com/baijunyao/design-patterns/tree/master/SafeComposite)
