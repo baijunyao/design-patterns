@@ -25,4 +25,4 @@
 - [对象适配器模式](https://github.com/baijunyao/design-patterns/tree/master/ObjectAdapter)
 - [桥接模式](https://github.com/baijunyao/design-patterns/tree/master/Bridge)
 - [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/Decorator)
-- [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/SafeComposite)
+- [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/TransparentComposite)
