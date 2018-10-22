@@ -14,6 +14,7 @@
 13. [php设计模式(十三)透明组合模式](https://baijunyao.com/article/174)
 14. [php设计模式(十四)安全组合模式](https://baijunyao.com/article/175)
 15. [php设计模式(十五)外观模式](https://baijunyao.com/article/176)
+16. [php设计模式(十五)享元模式](https://baijunyao.com/article/177)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -28,4 +29,6 @@
 - [桥接模式](https://github.com/baijunyao/design-patterns/tree/master/Bridge)
 - [装饰模式](https://github.com/baijunyao/design-patterns/tree/master/Decorator)
 - [透明组合模式](https://github.com/baijunyao/design-patterns/tree/master/TransparentComposite)
-- [安全组合模式](https://github.com/baijunyao/design-patterns/tree/master/SafeComposite)- [外观模式](https://github.com/baijunyao/design-patterns/tree/master/Facade)
+- [安全组合模式](https://github.com/baijunyao/design-patterns/tree/master/SafeComposite)
+- [外观模式](https://github.com/baijunyao/design-patterns/tree/master/Facade)
+- [享元模式](https://github.com/baijunyao/design-patterns/tree/master/Flyweight)
