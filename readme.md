@@ -17,6 +17,8 @@
 16. [php设计模式(十六)享元模式](https://baijunyao.com/article/177)
 17. [php设计模式(十七)代理模式](https://baijunyao.com/article/178)
 18. [php设计模式(十八)模板方法模式](https://baijunyao.com/article/179)
+19. [php设计模式(十八)命令模式](https://baijunyao.com/article/182)
+20. [php设计模式(十八)迭代器模式](https://baijunyao.com/article/183)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -36,3 +38,5 @@
 - [享元模式](https://github.com/baijunyao/design-patterns/tree/master/Flyweight)
 - [代理模式](https://github.com/baijunyao/design-patterns/tree/master/Proxy)
 - [模板方法模式](https://github.com/baijunyao/design-patterns/tree/master/Template)
+- [命令模式](https://github.com/baijunyao/design-patterns/tree/master/Command)
+- [迭代器模式](https://github.com/baijunyao/design-patterns/tree/master/Iterator)
