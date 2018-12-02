@@ -19,6 +19,7 @@
 18. [php设计模式(十八)模板方法模式](https://baijunyao.com/article/179)
 19. [php设计模式(十九)命令模式](https://baijunyao.com/article/182)
 20. [php设计模式(二十)迭代器模式](https://baijunyao.com/article/183)
+21. [php设计模式(二十一)观察者模式](https://baijunyao.com/article/184)
 
 ### 目录
 - [单例模式](https://github.com/baijunyao/design-patterns/tree/master/singleton)
@@ -40,3 +41,4 @@
 - [模板方法模式](https://github.com/baijunyao/design-patterns/tree/master/Template)
 - [命令模式](https://github.com/baijunyao/design-patterns/tree/master/Command)
 - [迭代器模式](https://github.com/baijunyao/design-patterns/tree/master/Iterator)
+- [观察者模式](https://github.com/baijunyao/design-patterns/tree/master/Observer)
